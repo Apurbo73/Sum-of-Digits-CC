@@ -1,4 +1,4 @@
-﻿# Sum-of-Digits-CC:
+﻿# Sum of-Digits-CC:
 
 
 ---
