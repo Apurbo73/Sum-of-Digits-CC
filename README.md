@@ -88,4 +88,3 @@ The program calculates the **sum of digits** for each number in a series of inpu
 15
 ```
 
-Let me know if you'd like a [Python version](f) or a [visual diagram](f) of this logic.
