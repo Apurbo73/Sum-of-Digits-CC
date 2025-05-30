@@ -1,6 +1,5 @@
 ﻿# Sum-of-Digits-CC:
 
-Sure! Let’s go through your C++ program in more detail:
 
 ---
 
