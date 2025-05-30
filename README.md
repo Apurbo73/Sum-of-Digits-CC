@@ -87,3 +87,8 @@ The program calculates the **sum of digits** for each number in a series of inpu
 15
 ```
 
+
+This C++ program calculates the sum of digits for multiple numbers. First, it reads how many numbers you want to process (`n`). For each number, it extracts each digit using the modulus operator (`% 10`) to get the last digit, adds that digit to a running total (`sum`), and then removes the digit using integer division by 10.
+
+This continues until all digits of the number are processed. After calculating the sum for a number, it prints the result. This process repeats for all `n` test cases. For example, if the input is `123`, it will compute `1 + 2 + 3 = 6` and print that.
+
